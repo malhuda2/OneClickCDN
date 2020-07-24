@@ -34,6 +34,7 @@ sudo bash OneClickCDN.sh
 wget https://raw.githubusercontent.com/Har-Kuun/OneClickCDN/master/uninstall.sh && sudo bash uninstall.sh
 ```
 
+FIX Error compiler : https://cwiki.apache.org/confluence/display/TS/CentOS
 ## Contact me
 You can open an issue here if there is any problem/bug when you use it, or would like a new feature to be implemented.
 For faster response, you can leave a message on this project webpage https://qing.su/article/oneclick-cdn.html
